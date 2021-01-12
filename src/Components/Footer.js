@@ -18,8 +18,10 @@ class Footer extends Component {
               {networks}
             </ul>
 
+
+
             <ul className="copyright">
-              <li>Design by <a title="Styleshout" href="https://www.linkedin.com/in/vansh-bhardwaj-502633167/">Vansh Bhardwaj</a></li>
+              <li>Designed by <a title="Styleshout" href="">Vansh Bhardwaj</a></li>
             </ul>
 
           </div>
